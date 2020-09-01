@@ -1,4 +1,4 @@
-### Hello World!, Joe here - aka [ipr0xy]👋
+### Hello World!, Joe here 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/joefanai?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/joefanai)
 
